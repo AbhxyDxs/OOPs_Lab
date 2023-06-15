@@ -45,7 +45,7 @@ public class EmployeeArray{
             if(employee.getE_Number()==empSearch){
                 flag=flag+1;
                 System.out.println("Employee Found!");
-                System.out.println("\nEmployee Number = "+employee.getE_Number());                System.out.println("Employee Number = "+employee.getE_Number());
+                System.out.println("\nEmployee Number = "+employee.getE_Number());
                 System.out.println("Employee Name = "+employee.getE_Name());
                 System.out.println("Employee Salary = "+employee.getE_Salary());
                 break;
